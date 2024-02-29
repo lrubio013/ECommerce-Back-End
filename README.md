@@ -23,3 +23,6 @@ Express was used to create our server. Sequelize was use for our database.
 - You then want to use the commant `npm run seed`
 - Last step to get your server going is do `npm start`
 ## Demonstration
+<img src="./assets/ECOMMERCE BACKEND.gif">
+
+Link to video - https://drive.google.com/file/d/1BZJe8D_b0W960JTsmrrsir_BvD8G5Tn5/view
